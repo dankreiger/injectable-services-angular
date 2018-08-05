@@ -6,7 +6,7 @@ import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 import { InactiveUsersComponent } from './inactive-users/inactive-users.component';
 import { NgModule } from '@angular/core';
-import { UsersService } from '../users.service';
+import { UsersService } from './users.service';
 
 @NgModule({
   declarations: [

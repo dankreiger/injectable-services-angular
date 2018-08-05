@@ -1,4 +1,4 @@
-import { CounterService } from './app/counter.service';
+import { CounterService } from './counter.service';
 import { Injectable } from '@angular/core';
 
 @Injectable()
